@@ -13,3 +13,11 @@ build/*
 xcuserdata
 profile
 *.moved-aside
+
+*.xcuserstate
+
+Filters/.DS_Store
+
+Filters.xcodeproj/project.xcworkspace/xcuserdata/sgillen.xcuserdatad/UserInterfaceState.xcuserstate
+
+.DS_Store
