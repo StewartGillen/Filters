@@ -19,6 +19,7 @@
 		8C191CAD161D1E1F00CC048E /* FiltersTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C191CAC161D1E1F00CC048E /* FiltersTests.m */; };
 		8C191CB8161D1E5700CC048E /* NSArray+Filters.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C191CB7161D1E5700CC048E /* NSArray+Filters.m */; };
 		8C191CB9161D1E5700CC048E /* NSArray+Filters.m in Sources */ = {isa = PBXBuildFile; fileRef = 8C191CB7161D1E5700CC048E /* NSArray+Filters.m */; };
+		8C191CBF161D372C00CC048E /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8C191CBE161D372C00CC048E /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		8C191CAC161D1E1F00CC048E /* FiltersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FiltersTests.m; sourceTree = "<group>"; };
 		8C191CB6161D1E5700CC048E /* NSArray+Filters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Filters.h"; sourceTree = "<group>"; };
 		8C191CB7161D1E5700CC048E /* NSArray+Filters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Filters.m"; sourceTree = "<group>"; };
+		8C191CBE161D372C00CC048E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -136,6 +138,7 @@
 				8C191C8E161D1E1E00CC048E /* main.m */,
 				8C191C90161D1E1E00CC048E /* Filters-Prefix.pch */,
 				8C191C91161D1E1E00CC048E /* Credits.rtf */,
+				8C191CBE161D372C00CC048E /* README.md */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -234,6 +237,7 @@
 				8C191C8D161D1E1E00CC048E /* InfoPlist.strings in Resources */,
 				8C191C93161D1E1E00CC048E /* Credits.rtf in Resources */,
 				8C191C99161D1E1E00CC048E /* MainMenu.xib in Resources */,
+				8C191CBF161D372C00CC048E /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -455,6 +459,7 @@
 				8C191CB2161D1E1F00CC048E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C191CB3161D1E1F00CC048E /* Build configuration list for PBXNativeTarget "FiltersTests" */ = {
 			isa = XCConfigurationList;
@@ -463,6 +468,7 @@
 				8C191CB5161D1E1F00CC048E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
