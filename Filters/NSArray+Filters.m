@@ -17,7 +17,7 @@
     
     // Iterate over objects in array, insert objects when they compare descending to the current object
     for (id anObject in self) {
-        // Compare the current object in our ordered array and compare it with the last object. If it is not descending continue.
+        // If the current object is smaller than the last object to return continue.
         if (anOrderedArray.count > (theLength - 1) && [anObject compare:[anOrderedArray objectAtIndex:(theLength - 1)]] != NSOrderedDescending)
             continue;
         // Insert the current object in order in the ordered array.
