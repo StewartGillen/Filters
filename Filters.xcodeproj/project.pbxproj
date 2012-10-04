@@ -54,7 +54,7 @@
 		8C191CAC161D1E1F00CC048E /* FiltersTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FiltersTests.m; sourceTree = "<group>"; };
 		8C191CB6161D1E5700CC048E /* NSArray+Filters.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Filters.h"; sourceTree = "<group>"; };
 		8C191CB7161D1E5700CC048E /* NSArray+Filters.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Filters.m"; sourceTree = "<group>"; };
-		8C191CBE161D372C00CC048E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		8C191CBE161D372C00CC048E /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
